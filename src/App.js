@@ -1,15 +1,12 @@
-import './App.css';
-import AppRoutes from './components/routes/Approutes';
-import { Link } from 'react-router';
-
+//import './App.css';
+import AppRoutes from './components/routes/AppRoutes';
 
 function App() {
   return (
-    <div className="App">
-			<h1>Ejumina</h1>
+		<div className="flex justify-center">
 			<AppRoutes />
-    </div>
-  );
+		</div>
+	);
 }
 
 export default App;
