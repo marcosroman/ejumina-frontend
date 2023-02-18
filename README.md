@@ -1,1 +1,5 @@
-questo e ejumina
+# Ejumina
+
+Try:
+> npm i
+> npm start
